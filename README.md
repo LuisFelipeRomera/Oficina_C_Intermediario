@@ -1,0 +1,2 @@
+# curly-meme
+This repository contains the practices from the workshop "C intermediate" from "Centro Universitario de Brasilia"
